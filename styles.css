@@ -1,0 +1,33 @@
+td.task-check-off {
+    color: green;
+    font-size: 1.5em;
+}
+
+#task-list {
+    margin-left: 20px;
+}
+
+td.task-remove {
+    color: red;
+    font-size: 1.5em;
+}
+
+td.task-completed {
+    text-decoration: line-through;
+    color: darkslategray;
+    font-style: italic;
+}
+
+body {
+    margin: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: 300;
+}
+
+.new-task{
+    margin-left: 20px;
+}
