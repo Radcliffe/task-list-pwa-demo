@@ -13,9 +13,10 @@ td.task-remove {
 }
 
 td.task-completed {
-    text-decoration: line-through;
-    color: darkslategray;
+    color: green;
     font-style: italic;
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
 }
 
 body {

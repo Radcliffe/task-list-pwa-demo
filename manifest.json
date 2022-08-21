@@ -1,0 +1,20 @@
+{
+    "name": "SimpleTaskList",
+    "short_name": "SimpleTaskList",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "/images/icons/icons8-todo-list-50.png",
+        "type": "image/png", "sizes": "50x50"
+      },
+      {
+        "src": "/images/icons/icons8-todo-list-50.png",
+        "type": "image/png", "sizes": "100x100"
+      }
+    ]
+  }
+  
